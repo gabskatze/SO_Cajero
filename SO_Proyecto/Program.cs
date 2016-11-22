@@ -25,11 +25,13 @@ namespace SO_Proyecto
             var proceso1 = new ProcesoCajero(1, semaforo, datos, form1);
             var proceso2 = new ProcesoCajero(2, semaforo, datos, form1);
             var proceso3 = new ProcesoCajero(3, semaforo, datos, form1);
+            var procesoReporte = new hiloReporte(datos);
             var procesoFila = new ProcesoFila(semaforo, datos, form1);
 
             proceso1.Start();
             proceso2.Start();
             proceso3.Start();
+            procesoReporte.Start();
             procesoFila.Start();
 
             Application.Run(form1);
