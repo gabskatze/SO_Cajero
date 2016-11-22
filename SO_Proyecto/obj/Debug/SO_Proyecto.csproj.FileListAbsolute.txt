@@ -1,0 +1,9 @@
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\bin\Debug\SO_Proyecto.exe.config
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\bin\Debug\SO_Proyecto.exe
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\bin\Debug\SO_Proyecto.pdb
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.Form1.resources
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.Properties.Resources.resources
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.csproj.GenerateResource.Cache
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.exe
+C:\Users\Gaby\Documents\U\Sistemas Operativos I\SO_Proyecto\SO_Proyecto\obj\Debug\SO_Proyecto.pdb
